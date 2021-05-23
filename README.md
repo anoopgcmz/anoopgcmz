@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Tech
 - 📫 How to reach me: ... mr.anoopg@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... No boundries
+- ⚡ Fun fact: ... https://anoopgcmz.github.io/footballerinyou/
 
