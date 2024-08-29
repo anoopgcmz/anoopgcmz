@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... API development in Node.js & Front End in Vue.js
-- 🌱 I’m currently learning ... ML(Python)
-- 👯 I’m looking to collaborate on ... AI projects (NLP/Automobile tech)
+- 🌱 I’m currently learning ... ML,LLM fo custom dataset
+- 👯 I’m looking to collaborate on ... AI projects (NLP)
 - 🤔 I’m looking for help with ... AI
 - 💬 Ask me about ... Tech
 - 📫 How to reach me: ... mr.anoopg@gmail.com
